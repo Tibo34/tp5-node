@@ -1,0 +1,22 @@
+{
+  "name": "tp5",
+  "version": "1.0.0",
+  "description": "\"# tp5-node\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tibo34/tp5-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tibo34/tp5-node/issues"
+  },
+  "homepage": "https://github.com/Tibo34/tp5-node#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
